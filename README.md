@@ -18,19 +18,15 @@ I'm a software developer with a passion for creating innovative solutions.
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![ai](https://img.shields.io/badge/-ai-black?style=flat-square&logo=ai)
 
 ### Other Tools
 [![Git](https://simpleicons.org/icons/git.svg)](https://git-scm.com/)
 [![Docker](https://simpleicons.org/icons/docker.svg)](https://www.docker.com/)
 
-- Programming Languages: JavaScript, Python, etc.
-- Frameworks: React, Node.js, etc.
-- Tools: Git, Docker, etc.
+
   
 
-## Projects
-- [Project 1](link_to_your_project_1): A brief description.
-- [Project 2](link_to_your_project_2): A brief description.
 
 ## Connect with Me
 - [LinkedIn](link_to_your_linkedin)
