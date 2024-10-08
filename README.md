@@ -1,7 +1,7 @@
 
-# Hello, I'm [Your Name] 👋
+# Hello 👋
 
-![Profile Picture](URL_TO_YOUR_IMAGE)
+
 
 ## About Me
 I'm a software developer with a passion for creating innovative solutions. 
