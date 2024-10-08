@@ -9,7 +9,6 @@ I'm a software developer with a passion for creating innovative solutions.
 
 -  dont forget to gift those you 💘
 
-## Skills
 
 ## Technologies & Tools
 
@@ -18,7 +17,7 @@ I'm a software developer with a passion for creating innovative solutions.
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![ai](https://img.shields.io/badge/-ai-black?style=flat-square&logo=ai)
+![ai](https://img.shields.io/badge/-ai-black?style=flat-square&logo=chatgpt)
 
 ### Other Tools
 [![Git](https://simpleicons.org/icons/git.svg)](https://git-scm.com/)
