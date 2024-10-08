@@ -18,7 +18,10 @@ I'm a software developer with a passion for creating innovative solutions.
 ![angular](https://img.shields.io/badge/-angular-black?style=flat-square&logo=angular)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![mongdb](https://img.shields.io/badge/-mongodb-black?style=flat-square&logo=mongodb)
-[![wordpress](https://simpleicons.org/icons/wordpress.svg)](https://www.wordpress.com/)
+[![wordpress](https://img.shields.io/wordpress/plugin/:interval/:slug
+)](https://www.wordpress.com/)
+
+
 
 
 ### Other Tools
