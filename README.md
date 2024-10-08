@@ -38,7 +38,6 @@ I'm a software developer with a passion for creating innovative solutions.
 
 
 ```javascript
-hello world
 ```
 
 
