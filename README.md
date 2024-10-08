@@ -1,4 +1,7 @@
-![Endpoint Badge](https://img.shields.io/endpoint)
+
+![Endpoint Badge](https://img.shields.io/badge/endpoint)
+![Endpoint Badge](https://img.shields.io/endpoint?style=flat)
+
 
 
 # Hello 👋
