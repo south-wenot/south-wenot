@@ -6,12 +6,8 @@
 ## About Me
 I'm a software developer with a passion for creating innovative solutions. 
 
-- 🔭 I’m currently working on [Project Name](link_to_your_project)
-- 🌱 I’m currently learning [Skill/Technology]
-- 👯 I’m looking to collaborate on [Topics or Projects]
-- 💬 Ask me about [Your Interests]
-- 📫 How to reach me: [Your Email or Social Links]
-- ⚡ Fun fact: [A fun fact about you]
+
+-  dont forget to gift those you 💘
 
 ## Skills
 
