@@ -25,13 +25,14 @@ I'm a software developer with a passion for creating innovative solutions.
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![mongdb](https://img.shields.io/badge/-mongodb-black?style=flat-square&logo=mongodb)
 ![wordpress](https://img.shields.io/badge/-wordpress-black?style=flat-square&logo=wordpress)
+![github](https://img.shields.io/badge/-github-black?style=flat-square&logo=github)
 
 
 
 
 
 ### Other Tools
-[![Git](https://simpleicons.org/icons/git.svg)](https://git-scm.com/)
+
 [![Docker](https://simpleicons.org/icons/docker.svg)](https://www.docker.com/)
 
 
