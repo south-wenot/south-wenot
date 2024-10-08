@@ -14,9 +14,21 @@ I'm a software developer with a passion for creating innovative solutions.
 - ⚡ Fun fact: [A fun fact about you]
 
 ## Skills
+
+## Technologies & Tools
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+
+### Other Tools
+[![Git](https://simpleicons.org/icons/git.svg)](https://git-scm.com/)
+[![Docker](https://simpleicons.org/icons/docker.svg)](https://www.docker.com/)
+
 - Programming Languages: JavaScript, Python, etc.
 - Frameworks: React, Node.js, etc.
 - Tools: Git, Docker, etc.
+  
 
 ## Projects
 - [Project 1](link_to_your_project_1): A brief description.
