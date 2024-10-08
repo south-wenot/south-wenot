@@ -17,6 +17,7 @@ I'm a software developer with a passion for creating innovative solutions.
 
 ## Technologies & Tools
 
+![html](https://img.shields.io/badge/-html-black?style=flat-square&logo=html)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
