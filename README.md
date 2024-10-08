@@ -31,5 +31,24 @@ I'm a software developer with a passion for creating innovative solutions.
 
 
 
+<h2>Copy Link Example</h2>
+<p>Click the button below to copy the link:</p>
+
+<input type="text" id="myInput" value="https://example.com" readonly style="width: 300px;">
+<button onclick="copyToClipboard()">Copy to Clipboard</button>
+
+<script>
+function copyToClipboard() {
+    var copyText = document.getElementById("myInput");
+    copyText.select();
+    document.execCommand("copy");
+    alert("Copied the text: " + copyText.value);
+}
+</script>
+
+
+
+
+
 
 
