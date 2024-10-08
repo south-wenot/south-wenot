@@ -24,6 +24,7 @@ I'm a software developer with a passion for creating innovative solutions.
 ![angular](https://img.shields.io/badge/-angular-black?style=flat-square&logo=angular)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![mongdb](https://img.shields.io/badge/-mongodb-black?style=flat-square&logo=mongodb)
+![NPM Downloads](https://img.shields.io/npm/dw/express)
 ![wordpress](https://img.shields.io/badge/-wordpress-black?style=flat-square&logo=wordpress)
 ![github](https://img.shields.io/badge/-github-black?style=flat-square&logo=github)
 
@@ -31,14 +32,4 @@ I'm a software developer with a passion for creating innovative solutions.
 
 
 
-### Other Tools
 
-[![Docker](https://simpleicons.org/icons/docker.svg)](https://www.docker.com/)
-
-
-  
-
-
-## Connect with Me
-- [LinkedIn](link_to_your_linkedin)
-- [Twitter](link_to_your_twitter)
