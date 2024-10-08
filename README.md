@@ -34,13 +34,11 @@ I'm a software developer with a passion for creating innovative solutions.
 
 
 
-<BackifyButton type="solid" icon="heart">Heart Icon</BackifyButton>
 
-## Usage
+
+
 ```javascript
-import copyCodeBlock from '@pickra/copy-code-block';
-// OR
-const copyCodeBlock = require('@pickra/copy-code-block');
+hello world
 ```
 
 
