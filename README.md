@@ -1,4 +1,6 @@
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/:mosta2030)
+<!--[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/:mosta2030)] -->
+
+<!-- This is a hidden comment -->
 
 
 
